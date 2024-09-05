@@ -1,0 +1,117 @@
+
+     
+     
+     nav {
+        display: flex;
+        justify-content: space-between;
+    
+     }
+    
+    ul  {
+        display: flex;
+        list-style: none;
+        gap: 20px;
+    
+    }
+    
+    button {
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px;
+        color: white;
+        background-color: black;
+    }
+    
+    .illustration {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .services {
+        display: flex;
+        align-items: center;
+        align-items: center;
+        font-size: 25px;
+     
+    
+    }
+    .green {
+        background-color: #B9FF66;
+        border-radius: 5px;
+        width: fit-content;
+        font-size: 45px;
+        
+    }
+    
+    .SEO-BOXES {
+        display: flex;
+padding-right: 25px;        
+    }
+    
+    
+    
+    .illustration h1{
+        font-size: 70px;
+    }
+    .illustration p{
+        font-size: 30px;
+    }
+
+    .process{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 700px;
+        height: 200px;
+       
+    }
+    .process h1{
+        font-size: 30px;
+        background-color: #B9FF66;
+        width: 300px;
+   
+    }
+
+
+    .process p{
+        font-size: 27px;
+    }
+
+    .cards1{
+        border: 2px solid black;
+        padding: 20px;
+      border-radius: 50px;
+      width: 1200px;
+      height: 300px;
+      box-shadow:whitesmoke ;
+      background-color: #B9FF66;
+
+    
+    }
+
+    .sub1{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+       border: 5px ;
+        font-size: 25px;
+    }
+    .sub2 p{
+       font-size: 30px;
+    }
+
+    .cards2{
+        border: 2px solid black;
+        padding: 20px;
+      border-radius: 50px;
+      width: 1200px;
+      height: 170px;
+
+    
+    }
+     
+
+
+
+
+
